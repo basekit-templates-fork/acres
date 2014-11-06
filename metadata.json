@@ -1,10 +1,9 @@
 {
-	"name":"Hotel Koya",
-	"thumbnail":"hotelkoya.png",
-	"screenshot":"hotelkoya.png",
+	"name":"The Real Estate",
+	"thumbnail":"real-estate.png",
+	"screenshot":"real-estate.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
-
     "tags": {
     "en": ["colorful", "bright", "hotel", "holiday", "modern", "colourful", "travel", "hospitality", "turism", "clean", "simple", "sans-serif"],
     "es": ["colorido", "claro", "hotel", "vacaciones", "moderno", "viaje", "hosteleria", "turismo", "limpio", "simple", "sans-serif"],
@@ -14,12 +13,12 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#f4594f",
+            "color2":"#2a2a2a",
+            "color3":"#ac9a66",
             "color4":"#373737",
             "color5":"#787878",
-            "color6":"#484848",
-            "color7":"#ffffff"
+            "color6":"#ffffff",
+            "color7":"#2a2a2a"
         },
         "Swatch 2": {
             "color1":"#ffffff",
@@ -59,9 +58,9 @@
         }
     },
     "fontSwatch": {
-       "title": "Raleway",
+       "title": "Lato",
         "font1": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "32px",
             "font-weight": "400",
             "line-height": "40px",
@@ -69,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "30px",
             "font-weight": "inherit",
             "line-height": "38px",
@@ -77,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "26px",
             "font-weight": "inherit",
             "line-height": "34px",
@@ -85,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "20px",
             "font-weight": "600",
             "line-height": "28px",
@@ -101,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "23px",
@@ -112,7 +111,7 @@
             "background-color-hover": "@color-swatch1"
         },
         "font7": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "26px",
@@ -122,7 +121,7 @@
             "background-color-hover": "darken(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "32px",
             "font-weight": "400",
             "line-height": "42px",
@@ -130,7 +129,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "400",
             "line-height": "30px",
@@ -138,7 +137,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "28px",
             "font-weight": "400",
             "line-height": "28px",
