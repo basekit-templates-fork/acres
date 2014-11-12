@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hotelkoya
 =================
 
@@ -25,7 +24,5 @@ Changes 2013-03-14
 
 Changes 2013-06-18 - Giulietta
 + Updated image directories to match code-base
-=======
 The Real Estate
 ===============
->>>>>>> 77ae79e3c03fbb314f40dad1b3721295dccf5cc1
