@@ -9,6 +9,9 @@
     "es": ["colorido", "claro", "hotel", "vacaciones", "moderno", "viaje", "hosteleria", "turismo", "limpio", "simple", "sans-serif"],
     "br": ["colorido", "claro", "hotel", "ferias", "moderno", "Viagem", "hospitalidade", "turismo", "limpo", "simples", "sans-serif"]
     },
+    "images":[
+        "images/feature-bg.jpg"
+    ],
 	"colorSwatches":
     {
         "Swatch 1": {
