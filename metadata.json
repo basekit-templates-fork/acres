@@ -1,7 +1,7 @@
 {
-	"name":"The Real Estate",
-	"thumbnail":"real-estate.png",
-	"screenshot":"real-estate.png",
+	"name":"Acres",
+	"thumbnail":"acres.png",
+	"screenshot":"acres.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
