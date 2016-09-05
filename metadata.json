@@ -1,67 +1,105 @@
 {
-	"name":"Acres",
-	"thumbnail":"acres.png",
-	"screenshot":"acres.png",
-	"templateType":"standard",
-    "pageTypes": ["home"],
+    "name": "Acres",
+    "thumbnail": "acres.png",
+    "screenshot": "acres-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["colorful", "bright", "hotel", "holiday", "modern", "colourful", "travel", "hospitality", "turism", "clean", "simple", "sans-serif"],
-    "es": ["colorido", "claro", "hotel", "vacaciones", "moderno", "viaje", "hosteleria", "turismo", "limpio", "simple", "sans-serif"],
-    "br": ["colorido", "claro", "hotel", "ferias", "moderno", "Viagem", "hospitalidade", "turismo", "limpo", "simples", "sans-serif"]
+        "en": [
+            "colorful",
+            "bright",
+            "hotel",
+            "holiday",
+            "modern",
+            "colourful",
+            "travel",
+            "hospitality",
+            "turism",
+            "clean",
+            "simple",
+            "sans-serif"
+        ],
+        "es": [
+            "colorido",
+            "claro",
+            "hotel",
+            "vacaciones",
+            "moderno",
+            "viaje",
+            "hosteleria",
+            "turismo",
+            "limpio",
+            "simple",
+            "sans-serif"
+        ],
+        "br": [
+            "colorido",
+            "claro",
+            "hotel",
+            "ferias",
+            "moderno",
+            "Viagem",
+            "hospitalidade",
+            "turismo",
+            "limpo",
+            "simples",
+            "sans-serif"
+        ]
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg"
     ],
-	"colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#2a2a2a",
-            "color3":"#ac9a66",
-            "color4":"#373737",
-            "color5":"#787878",
-            "color6":"#ffffff",
-            "color7":"#2a2a2a"
+            "color1": "#ffffff",
+            "color2": "#2a2a2a",
+            "color3": "#ac9a66",
+            "color4": "#373737",
+            "color5": "#787878",
+            "color6": "#ffffff",
+            "color7": "#2a2a2a"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#666666",
-            "color3":"#E7952F",
-            "color4":"#513434",
-            "color5":"#77665D",
-            "color6":"#ffffff",
-            "color7":"#2a2a2a"
+            "color1": "#ffffff",
+            "color2": "#666666",
+            "color3": "#E7952F",
+            "color4": "#513434",
+            "color5": "#77665D",
+            "color6": "#ffffff",
+            "color7": "#2a2a2a"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#2a2a2a",
-            "color3":"#38AD9E",
-            "color4":"#38332B",
-            "color5":"#888580",
-            "color6":"#ffffff",
-            "color7":"#2a2a2a"
+            "color1": "#ffffff",
+            "color2": "#2a2a2a",
+            "color3": "#38AD9E",
+            "color4": "#38332B",
+            "color5": "#888580",
+            "color6": "#ffffff",
+            "color7": "#2a2a2a"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#2a2a2a",
-            "color3":"#945571",
-            "color4":"#473E42",
-            "color5":"#787878",
-            "color6":"#ffffff",
-            "color7":"#2a2a2a"
+            "color1": "#ffffff",
+            "color2": "#2a2a2a",
+            "color3": "#945571",
+            "color4": "#473E42",
+            "color5": "#787878",
+            "color6": "#ffffff",
+            "color7": "#2a2a2a"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#666666",
-            "color3":"#51C7D0",
-            "color4":"#373737",
-            "color5":"#563B28",
-            "color6":"#ffffff",
-            "color7":"#2a2a2a"
+            "color1": "#ffffff",
+            "color2": "#666666",
+            "color3": "#51C7D0",
+            "color4": "#373737",
+            "color5": "#563B28",
+            "color6": "#ffffff",
+            "color7": "#2a2a2a"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "32px",
